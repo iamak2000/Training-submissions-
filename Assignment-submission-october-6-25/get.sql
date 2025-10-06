@@ -1,0 +1,2 @@
+SELECT * FROM data;
+SELECT * FROM data WHERE Age > 28;
